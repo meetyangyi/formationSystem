@@ -1,2 +1,0 @@
-# formationSystem
-from study
